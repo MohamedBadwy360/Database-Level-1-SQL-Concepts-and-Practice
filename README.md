@@ -10,3 +10,9 @@ The Course is about `Database & SQL`.
 ---
 
 **Tools:** `Visual Studio`, `Visual Studio Code`.
+
+---
+
+## `Cerificate`
+
+![Certificate](/15%20-%20Database%20Level1%20SQL%20Concepts%20and%20Practice.jpg)
