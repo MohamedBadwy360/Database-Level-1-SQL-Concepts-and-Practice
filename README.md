@@ -9,7 +9,7 @@ The Course is about `Database & SQL`.
 
 ---
 
-**Tools:** `Visual Studio`, `Visual Studio Code`.
+**Tools:** `Visual Studio`, `Visual Studio Code`, `Microsoft SQL Server`.
 
 ---
 
